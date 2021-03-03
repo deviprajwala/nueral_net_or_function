@@ -1,0 +1,14 @@
+w1 = 0.4 w2 = 0.4 after 0th iteration
+w1 = 0.45 w2 = 0.45 after 1th iteration
+w1 = 0.5 w2 = 0.5 after 2th iteration
+w1 = 0.55 w2 = 0.55 after 3th iteration
+w1 = 0.6 w2 = 0.6 after 4th iteration
+w1 = 0.65 w2 = 0.65 after 5th iteration
+w1 = 0.7 w2 = 0.7 after 6th iteration
+w1 = 0.75 w2 = 0.75 after 7th iteration
+w1 = 0.8 w2 = 0.8 after 8th iteration
+w1 = 0.85 w2 = 0.85 after 9th iteration
+1  1 answer is 1
+0  1 answer is 1
+1  0 answer is 1
+0  0 answer is 0
